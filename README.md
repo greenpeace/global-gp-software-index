@@ -1,6 +1,6 @@
 # List of software produced for/by Greenpeace
 
-Source code of software produced specifically for Greenpeace. This list includes public and private repositories. Please check the repository's license before you use it.
+List of software produced specifically for Greenpeace. This repository list includes public and private repositories in Github and other platforms. Please check the repository's license before you use it.
 
 - [List of software produced for/by Greenpeace](#list-of-software-produced-forby-greenpeace)
   - [Wordpress](#wordpress)
