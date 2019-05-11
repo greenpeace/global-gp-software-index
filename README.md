@@ -109,6 +109,7 @@ Standalone or child themes with indic. about parent theme.
 ## E-learning
 
 - **[gpes-html5-scorm-presentation](https://github.com/greenpeace/gpes-html5-scorm-presentation)** - Create a [GP presentation](ttps://greenpeace.github.io/gpes-html5-scorm-presentation/) using html5. Use it independently or upload it as an elearning SCORM package in Moodle or any other SCORM-compatible LMS.
+- **[gpes-activism-school-elearning-template](https://github.com/greenpeace/gpes-activism-school-elearning-template)** - School of Activism e-learning template/example.
 
 ## Other
 
