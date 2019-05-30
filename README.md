@@ -87,6 +87,7 @@ Standalone or child themes with indic. about parent theme.
 - **[gpes-wells-map](https://github.com/greenpeace/gpes-wells-map)** - Responsive maps about [illegal wells](https://es.greenpeace.org/es/trabajamos-en/agricultura/pozos-ilegales/).
 - **[gpes-mapa-renovales](https://github.com/greenpeace/gpes-mapa-renovales)** <sup>private</sup> - Renewables map that was translated in 3 more languages in Github by the translators. [This project](https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/energias-renovables/alternativas-energeticas/) is going to be redesigned.
 - **[gpes-missinformation-published-whatsapp](https://github.com/greenpeace/gpes-missinformation-published-whatsapp)** - Real missinformation messages published in Whatsapp and presented in a simulated WhatsApp interface.
+- **[gpes-ammonia-emissions](https://github.com/greenpeace/gpes-ammonia-emissions)** <sup>private</sup> - Ammonia emissions for the industrial meat map farms in Spain.
 
 ## Processing data
 
